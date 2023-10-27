@@ -1,6 +1,6 @@
 // ignore_for_file: lines_longer_than_80_chars, prefer_constructors_over_static_methods
 
-
+// intl + flutter_localizations
 
 class AppLocalizations {
   static AppLocalizations? _current;
