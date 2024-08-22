@@ -1,0 +1,1 @@
+ /Users/mihailcernysevskii/Documents/Projects/projects/map/.dart_tool/flutter_build/1eac22149bb2af49754fdffe5b9c6089/native_assets.yaml: 
