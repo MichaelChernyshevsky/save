@@ -8,7 +8,6 @@ void main() {
   runApp(
     MultiBlocProvider(
       providers: [
-        // BlocProvider<FirstBloc>(create: (context) => FirstBloc()),
         BlocProvider<ThurdBloc>(create: (context) => ThurdBloc()),
       ],
       child: const MyApp(),
